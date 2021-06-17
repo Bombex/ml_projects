@@ -1,2 +1,2 @@
 # ml_projects
-for study
+Summer study in machine learning
